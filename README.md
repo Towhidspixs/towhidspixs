@@ -1,16 +1,31 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="eng">
 
-<!--
-**Towhidspixs/towhidspixs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   <head>
+    <title>
+        Towhid's pixs
+    </title>
+   </head>
+   <h1 style="text-align:center; color:beige"> Towhid's Pixs </h1>
+    <u><h2 style="color:brown"> Facebook Official Webpage</h2></u>
+    <img src=".vscode/166751919_258211179279364_2360659008619938679_n.jpg" width="800px" height="500px">
+    <br/>
+    <br/>
+    <b style="color:bisque">This page is about beauty and purity.We are looking for beauty nd purity. Natural flower, Enviroment, pets, Birds, Bangla songs, hindi or another Languages songs cover video ETC Upload this page.
+You don't have to go to any far away region to enjoy the beauty, there is an enchanting aura next to it.</b>
+    <br/>
+    <br/>
+    <a href="https://www.facebook.com/towhidpixs"> <b style="color:blue">Facebook page </b></a>
+    <br/>
+    <br/>
+    <a href="https://www.instagram.com/towhids_pixs/"> <b style="color:brown">Instagram Page</b></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <br/>
+   <br/>
+   <body style="background:black; text-align: center;" >
+   <i> <b> This is a social platform bounding on- facebook & instagram </b></i> 
+    <br/>
+    <br/>
+   <strong><a  href="file:///C:/Users/sc/Desktop/HTML/html%202.html"> visit All post </a></strong>
+   </body>
+</html>
